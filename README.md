@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m @JoaquimFontinha
 
 - 👀 I’m interested in software development, web applications, and game development
-- 🌱 I’m currently learning and improving my skills !
-- 💞️ I’m looking to collaborate on innovative projects !
+- 🌱 I’m currently learning and improving my skills
+- 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me: joaquim.fontinha@epitech.eu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love creating video content on TikTok and YouTube!
